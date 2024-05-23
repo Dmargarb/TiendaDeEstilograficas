@@ -15,3 +15,11 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
